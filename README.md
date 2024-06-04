@@ -7,6 +7,6 @@ You need to refactor the `BookSearchApiClient` class, and demonstate in `example
 Things you will be asked about:
 
 1. How could you easily add other book seller APIs in the the future
-2. How woud you manage differences in response payloads between differnt APIs without needing to make future changes to whatever code you have in example-client.js
+2. How would you manage differences in response payloads between different APIs without needing to make future changes to whatever code you have in example-client.js
 3. How would you implement different query types for example: by publisher, by year published etc
 4. How your code would be tested
